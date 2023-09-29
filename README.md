@@ -2,7 +2,7 @@
 
 Главная страница
 ![Image alt](https://github.com/P4N4K0N/Site-PHP-HTML-CSS-JS-/blob/main/image/1.png)
-Нижняя часть
+Нижняя часть страницы
 ![Image alt](https://github.com/P4N4K0N/Site-PHP-HTML-CSS-JS-/blob/main/image/2.png)
 Страница регистрации
 ![Image alt](https://github.com/P4N4K0N/Site-PHP-HTML-CSS-JS-/blob/main/image/3.png)
